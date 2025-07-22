@@ -1,2 +1,2 @@
 # wp-deadbolt
-A plugin I made for a friend.  Not to be used today!!!
+A WordPress plugin I made for a friend.  Not to be used today!!!
